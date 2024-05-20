@@ -1,0 +1,15 @@
+.optionsWrapper {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.btn {
+    padding: 5px;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 400;
+}
+
+.btn:not(:last-child) {
+    margin-right: 5px;
+}
